@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'ProximaNova';
+  src: url(../fonts/proximanova_regular.ttf);
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ProximaNova';
+  src: url(../fonts/proximanova_bold.otf);
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ProximaNova';
+  src: url(../fonts/proximanova_black.otf);
+  font-weight: 900;
+  font-style: normal;
+}
